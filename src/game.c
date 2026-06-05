@@ -24,6 +24,7 @@ char** canvas;
 	that is drawn onto the canvas at each given frame.
 */
 Rect player; //Not yet initialized
+//Test line
 
 
 
